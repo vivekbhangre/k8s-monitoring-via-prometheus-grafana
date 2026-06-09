@@ -267,7 +267,8 @@ Ensure the following ports are allowed:
 |--------|---------|
 | 22 | SSH Access |
 | 6443 | Kubernetes API Server |
-| 30000-32767 | NodePort Range |
+| 32434 | Grafana Web Interface (Your specific port) |
+| 30814 | Prometheus Dashboard (Your specific port) |
 
 ---
 
